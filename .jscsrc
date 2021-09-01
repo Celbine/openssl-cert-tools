@@ -1,6 +1,6 @@
 { "excludeFiles":
-  [ "node_modules/**"
-  , "coverage"
+  [
+    "coverage"
   ]
 , "requireLineFeedAtFileEnd": true
 , "disallowMultipleLineBreaks": true
